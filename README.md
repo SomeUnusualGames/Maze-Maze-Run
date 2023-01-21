@@ -6,7 +6,7 @@ Your objective is to escape the maze in 6 minutes while being chased by four gho
 
 Watch on Youtube (click the image):
 
-[![Watch on Youtube](https://img.youtube.com/vi/0u9Kkk25zII/0.jpg)](https://www.youtube.com/watch?v=0u9Kkk25zII)
+[![Watch on Youtube](https://img.youtube.com/vi/0u9Kkk25zII/maxresdefault.jpg)](https://www.youtube.com/watch?v=0u9Kkk25zII)
 
 
 #### Language used
